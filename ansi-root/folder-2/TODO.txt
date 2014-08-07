@@ -1,0 +1,216 @@
+
+
+[]patterns/theme definition for CSI types.
+[]OBIEE nominations from Satish Matcha.
+[]Ask mentor when is tentative end date while following up for next week status
+[]16-Aug-14 ETA for slide deck: to follow up on nominations - 2-4pm nominations: 25-29 Aug, 1-5 Sep
+[]SQCR dashboard - grand total for audit; color coding for grand total row and account name row
+
+
+[]Induction packs - Done for new packs. Deferred for existing accounts.
+[]lessons learned vs lessons learnt - to check with adi
+[]user reminder tool in outlook for weekly status from mentors
+[]transition plan for Poornima - capab programs
+[]csir audit process [Lakhmi to make line entry in SMO tracker]
+[]meeting with Subbu, Ramesh, vamsi G, Satish M tue 10/06 11AM
+[]service line dashboard
+
+.[]SMO WSR for WE 28-Jul
+.[]BAU  - title; description; created; target completion
+.[]clarification -  smo tracker - barrick gold support from onsite
+.[]add to CICP process - if it's user related issue or infra issue
+.[]lakshmi leave: 8-Aug to 22-Aug (10)
+.[]raise a ICT ticket for laptop windows activation
+.[]to collect all previous month NC/observation data collection - from Santhosh []
+.[]Fatwire - Hema KT - meeting on how to go about it.
+.[]UCM closure meeting - setting invite
+.[]ver control[]Outline revision history - process
+.[]induction pack
+.[]RCA, PIR sessions and template revision and baselining (entry exit criteria; process call out)
+.[]Lakshmi leave - 28 and 30 - to update in next WSR
+.[]PIR template review: Suresh says "in exe summary, add workaround/permanent fix"
+.[]to add durga to oracle apps 2ic program [mail sent to Satish]
+.[]OBIEE - capability program initiation; send OBIEE sheet to Srini [template sent to Srini]
+.[]SMO tracker task closure - RCA template closure; ?? one more to be closed?? [closed revamp entry]
+.[]Capability Dashboard - add new section for closed program [done]
+.[]unique capability program listing under dashboard page [published in capab dashboard]
+.[]to prepare SQCR consolidated dashboard with automatic cumulative data/graph
+.[]to schedule Datastage closure on Thu 10-Jul [closed] 
+.[]CICP-Register update: add 4 ()lessons learned+3 colums [updatd and published over ozone]
+.[]spell check and grammar check - follow up with Revathi [sent mail to revert back once done]
+.[]check with Durgesh [sent mail to send sheet for WE 11-Jul]
+.[]CICP revise template - to share with Adi. [sent for review]
+.[]RCA revamp - close this activity on smo tracker
+.[]Manual SMO dashboard data entry for Jun; to work on automation for Jul.[uploaded with Jun data]
+.[]follow up on Oracle UCM closure [to be continued till 31-Jul]
+.[]planned completion comment over capab pictoral dashboard program names
+.[]ICT/infra update [infra for capab program] - attach sheet on mail for FYI [Revathi to send mail every fridays]
+.[]in-progress'  to be checked in WSR template ['InProgress' updtd svcline reg]
+.[]svc line issue log - 'notes' rename it to 'smo remarks' [updatd all 'note' col to 'SMO Remarks']
+.[]cicp template, entry exit criteria; raised date and time stamp; closed date and time; removed update no. from subject; add "[critical Incident]" as first prefix to subjectline [revised template to v1.2]
+.[]canon spelling corrections [done]
+.[]open ICT ticket for TP issues [done]
+.[]delegate training tracker and training checklist tracker to Revathi
+.[]spellchecks in WSRs and 
+.[]risk value 20 as and when wsr and educate SDMs
+.[]get feedback from Poornima (as we did for ITIL)
+.[]SMO WSR draft by Wed EOD
+
+
+
+???
+RAC - one node - ??
+link recording
+
+e.g. however the failover didn’t work as  there was no redundancy for SAN (It’s a SPOF). 
+
+BMA - how it looks
+
+
+
+
+--
+[]Hema find transfer - PMP fee credit card payment ref no.-Transaction Reference Number:48953103; INR 34,453.85
+[]Acquire Hema PAN card - SMT HEMLATHA; NSDL NO.-400-1228005 (400001228005); ORDER NO.-BD0001327507; SMT HEMALATHA- PAN appl881030121913874 [acknowledgement no. 881030121913874] TIN Call Center at 020 - 27218080,10901 ALANKIT ASSIGNMENTS LIMITED	J T VENKATA RAMA RAJU	D. NO. 1-1-21/HD/35/310, FLAT 310, 4TH FLOOR
+HEMADURGA PLAZA ALLWYA COLONY MIYAPUR MIYAPUR ANDHRA PRADESH 500049, Tel:4023041240, 9701876535,FAX0	RAMARAJUJ@YAHOO.COM
+[]globe7 issue
+[]Microsoft ESOPs
+[]laptop parental control
+[]oshin's cycle bell
+[]mattress stiching
+[]oishi's passport
+[]writeup for voters
+[]prasad for I-T refund -> Check online at www.tin-nsdl.com-> provide refund stautus details
+[]pending sufianakalam - Nusrat: chan sajna, rooh e sufi vol2, sangam, Manaqib Khawaja Mueenuddin Chishti -.mp3, Jab Teri Yaad-Rahim Shah.wma, Dil Ne Baithe Baithe.wma-sufianakalam.com, Ve Tu Aona Si - Humera Arshad .wma
+
+movies to watch:
+lakhon ki baat
+satyakaam??
+maan abhimaan
+
+
+
+============================================================================================
+
+
+
+[]Book author - Whale Dune
+[]KRA??
+[]monthly cadence
+[]corollary risk of doing too much
+[]CMM context
+[]wild-risk taking vs conjecturing
+.[]MoSCoW
+[]empirical model of process control
+[]sneakers?
+[]wannabe hero
+[]desire to bestow its vitues
+[]anecdotes
+[]the act that endows resources
+[]blogosphere
+[]we broached the idea of ...
+[]can cloud computing gain critical mass w/o OSS players at its core
+[]nascent devops movement
+[]change management risk models
+[]ebs is down
+[]interminable up-front planning
+[]shrink-wrapped
+[]EMT training sessios
+[]increasingly nimble
+[]benefits are often obscured
+[]Puppet, Chef, ControlTier, infra as code, model driven automation, continuous deployment
+[]our release cadence hit warp drive
+[]rolling bounce 	deployment strategies
+[]form of triangulation?
+[]ACP(SM) means?
+[]eliciting requirements?
+[]jelly beans - used for measuring velocity, a unit of measurement
+[]disenchant meaning?
+[]annotate and extrapolate easier than words
+.[]transpire - emerge, leak
+[]bespoke applications
+[]DIY deployments
+[]problem is exacerbated by long release cycles
+[]resentment b/w the two teams perpetuated
+[]he was remarkably prescient in his quote
+[]web2.0 companies
+[]severity vs priority
+[]subassembly cost (ask chandra nateshan)
+[]handoffs - motion waste in lean
+[]risk can transpire a project
+[]partially done work can entropy
+[]focus on vdd permeates agile planning process
+[]MTO/PTO ??  SLA?? how much money spent against benefits?? RMC integration, cost chapter?  
+[]being frugal?
+[]vetted by diverse set of partners
+[]services don't have 'intrinsic' value
+[]utility? utility-like reliability. utilities are needs that are taken as granted e.g. water electricity
+[]make it more exciting or "enticing"?
+[]herzberg? maslow, mcgregor etc? - herzberg: hygiene and motivation, hygiene factors can't motivate; maslow: 
+[]influence diagram
+[]bill of lading.. lauding??
+[]slander or libel
+[]economic evaluation
+[]regression means
+[]zero sum rewards
+[]olfactory communication media
+[]linear programming is example of COM or benefit measurements?
+[]constrained optimization model to select project and benefit measurement model to select project
+[]theory Z
+[]concilatory management style - Management approach in which the project manager is friendly and agreeable and attempts to unite all project parties involved to provide compatible working team. 
+[]pert and gert? A project management system that determines the project finish date by estimating best (shortest), worst (longest) and most likely duration times for activities on the critical path.; Graphical Evaluation And Review Technique (GERT) - Network analysis technique that allows for conditional and probabilistic treatment of logical relationships (for example, some activities may not be performed).
+[]punitive damages?
+[]i can't stop thinking about fudge
+[]self-eficacy theory
+[]conversely meaning
+[]event-oriented and project-oriented analysis approach
+[]org perquisites
+[]vroom expectancy theory, bf skinner theory of behavioral reinforcement
+[]milestone trend analysis (MTA)
+[]burn rate = ac/pv?
+[]geert hofstede's cultural dimension of individualism
+[]coveted task - meaning
+[]repudiatory breach?
+[]two-point delphi estimate
+[]elated meaning "Which of the following describes a group of elated schedule activities"
+[]condescending meaning - teach without condescending
+[]4P's of service strategy
+
+
+
+
+============================================================================================
+
+
+yeh desh sirf arvind kejriwal ka hai kya?
+kya 'Hindustaani', 'Indian' sabd sunkar mere dil mein kuch nahi hota.. jabb kisi bade manch par jan-gan -man bajta hai tow mere sareer main jhur-juri nahi daudti?
+
+ek aadmi apna sabb kuch chhodd kar yeh kichhad saaf karne aata hai aur hum uspar hanste hain.. hamein samajhna hoga hum uss par nahi hansh rahey hum khudd par hanss rahe hain.. uske paas khone ke liye kuchh bhi nahi hai aur humm chahen tow sabb kuch paa sakte hain.
+
+ppl don't have any vested interest whether this party wins or that party wins.. they just want their immediate concerns addressed first which we have not even in 65 years.
+
+desh mera, paisa mera par mutthhi bhar log malai uddhaa rahe hai.. mein apne ghar ke bahar khunta bhi nahi gaadh sakta ye log jo chaahe kar sakte hai.. agar galat ke khilaaf ungali uthaa du to saari umar police thane aur court kachhari mein beet jaati hai.. zindagi bhar ki kamai gaddhe mein.. mere parivaar ka jeevan nark.. mein chhata hoon mere loktantrik desh me swaraj ho.
+
+
+
+---
+adios..
+
+Dear team, thank you very much.
+
+We shall converge over ansijoshi@gmail.com and 'ansijoshi' handle everywhere else.
+
+
+===
+all of us are wearing colored lenses
+
+--
+
+Water buffallows cross a busy joint on my way to office and it creates a healthy traffic jam, for minimum five minutes, as no one likes to let them cross first. For a change, a gentleman today allowed them to cross first and it just took 30 seconds to clear the traffic.
+
+
+
+---
+
+pls find my CV attached for your kind perusal.
+

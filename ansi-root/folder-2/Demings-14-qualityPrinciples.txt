@@ -1,0 +1,704 @@
+
+
+=================================================================
+PROJECT MANAGEMENT, AGILE, DEVOPS
+=================================================================
+
+
+RUP
+	???
+
+
+
+
+
+LEAN 7 MANUFACTURING WASTES:
+
+
+
+
+AGILE 7 SOFTWARE WASTES [PPF SoftWare MoDe]:
+
+	P - Partially done work
+	P - Extra processes
+	F - Extra features
+	S - Task switching
+	W - Waiting
+	M - Motion
+	D - Defects
+
+
+
+
+
+=================================================================
+QUALITY
+=================================================================
+
+DEMINGS 14 QUALITY PRINCIPALS: [PPPICC FLT NNWST]
+	P - purpose to improve quality [1. Create constancy of purpose for improving products and services.]
+	P - adopt new philosophy [2. Adopt the new philosophy.]
+	P - price independence [4. End the practice of awarding business on price alone; instead, minimize total cost by working with a single supplier.]
+	I - inspection independence [3. Cease dependence on inspection to achieve quality.]
+	C - continuous improvement [5. Improve constantly and forever every process for planning, production and service.]
+	C - collaboration and teamwork [9. Break down barriers between staff areas.]
+	F- fearless environment [8. Drive out fear.]
+	L - leadership - adopt and institutionalize [7. Adopt and institute leadership.]
+	T - training on job [6. Institute training on the job.]
+	N - No slogans, exhortations, targets [10. Eliminate slogans, exhortations and targets for the workforce.]
+	N - no numerical quotas and goals [11. Eliminate numerical quotas for the workforce and numerical goals for management.]
+	W - workmanship nurturing [12. Remove barriers that rob people of pride of workmanship, and eliminate the annual rating or merit system.]
+	S - Self improvement and education [13. Institute a vigorous programme of education and self-improvement for everyone.]
+	T - transformation a mission for everybody [14. Put everybody in the company to work accomplishing the transformation.]
+
+	https://www.deming.org/theman/theories/fourteenpoints
+
+	1. Create constancy of purpose for improving products and services.
+	2. Adopt the new philosophy.
+	3. Cease dependence on inspection to achieve quality.	
+	4. End the practice of awarding business on price alone; instead, minimize total cost by working with a single supplier.
+	5. Improve constantly and forever every process for planning, production and service.
+	6. Institute training on the job.
+	7. Adopt and institute leadership.
+	8. Drive out fear.
+	9. Break down barriers between staff areas.
+	10. Eliminate slogans, exhortations and targets for the workforce.
+	11. Eliminate numerical quotas for the workforce and numerical goals for management.
+	12. Remove barriers that rob people of pride of workmanship, and eliminate the annual rating or merit system.
+	13. Institute a vigorous programme of education and self-improvement for everyone.
+	14. Put everybody in the company to work accomplishing the transformation.
+
+=================================================================
+
+TQM [DEMING, JURAN] [CCPICC Fact based decision making]
+	C - client focus
+	C - collaboration and teamwork
+	P - process oriented
+	I - integration
+	C - CSI
+	C - communicate
+	F - fact based decision making
+
+=================================================================
+
+CSI APPROACH:
+	what is the vision
+	where are we now?
+	where we want to be?
+	How do we get there?
+	did we get there?
+	how do we keep the momentum going?
+
+
+=================================================================
+
+PDCA 7-STEP IMPROVEMENT PROCESS:
+	P - plan
+		= identify strategy for improvement
+		= define what will be measured
+	D - do
+		= gather data
+		= process data
+	C - check
+		= analyzed the information and data
+		= present and use the information
+	A - act
+		= implement improvement
+
+=================================================================
+
+WHAT IS CSI? [ID Ga PAPI]
+	{Define and manage}
+	I - identify
+	D - define
+	Ga- gather
+	P - process
+	A - analyze
+	P - present
+	I - implement
+
+=================================================================
+
+Resources: [PIAFI]
+	P - people
+	I - information
+	A - applications
+	F - financial capital
+	I - infrastructure
+
+Capabilities: [MOPKeePers]
+	management
+	organization
+	process
+	knowledge
+	people (Exp, Relationships, Skills)
+
+
+=================================================================
+INTERPERSONAL AND PROFESSIONALISM
+=================================================================
+
+Do;
+	Trust
+	Time
+	Touch
+
+Don't;
+	Ego
+	Envy
+	Excess word
+
+=================================================================
+
+DALE CARNEGIE:
+
+Fundamental ethics: [CAW]
+	C - no complain(dissatisfaction), criticise(find faults) and condemn(disapprove)
+	A - sincere appreciation
+	W - generate an earger want
+
+Personality ethics: [LiP SING]
+	Li - listen
+	P  - talk person's interest
+	S  - smile
+	I  - importance
+	N  - name
+	G  - genuinly interested
+
+Business ethics: [Yes Friend, Avoid Wrong Wrong Talk, i-Respect Your-idea and Sympathize your-Perspective and 
+                  Appeal-nobler-motives whil Dramatizing-ideas and throwing-Challenges]
+	YES 		-yes 
+	FRIEND 		-friend 
+	AVOID 		-avoid 
+	WRONG 		-wrong (say)
+	WRONG		-wrong (admit) 
+	TALK 		-talk,
+	RESPECT 	-i-respect 
+	YOUR-IDEA 	-your-idea and 
+	SYMPATHISE 	-sympathize 
+	YOUR-PERSPECTIVE-your-perspective and
+	APPEAL 		-appeal nobler motives while
+	DRAMATIZE 	-dramatize idea 
+	CHALLENGE	-throwing-challenging
+
+Be a Leader: How to Change People Without Giving Offense or Arousing Resentment[edit]
+Begin with praise and honest appreciation.
+Call attention to people's mistakes indirectly.
+Talk about your own mistakes before criticizing the other person.
+Ask questions instead of giving direct orders.
+Let the other person save face.
+Praise every improvement.
+Give the other person a fine reputation to live up to.
+Use encouragement. Make the fault seem easy to correct.
+Make the other person happy about doing what you suggest.
+
+
+McGregor’s Theory of X and Y
+
+
+Maslow’s Hierarchy of Needs:
+People have needs, and until the lower ones (like acceptance on the team, job safety or job security) are satisfied, 
+they won’t even begin to think about the higher ones (fulfilling their potential and making a contribution).
+
+McClelland’s Achievement Theory
+
+
+Herzberg’s Motivation-Hygiene Theory
+
+=================================================================
+
+PM's INTER-PERSONAL SKILLS: [Trust Leads Politcal Team Motivator IN-tegration Communicating, Deciding Coaching and Negotiating Conflict]
+	trust
+	leads
+	politcal
+	team
+	motivator
+	integration
+	communicating
+	deciding
+	coaching
+	negotiating
+	conflict
+
+=================================================================
+
+PROFESSIONALISM: [TAP 4-times 'C' and DO it]
+	T - trustworthy
+	A - adaptable
+	P - passion
+	C - client focus
+	C - communication skills
+	C - collaboration and teamwork
+	C - creative problem solving
+	D - drive to achieve
+	O - ownership
+
+=================================================================
+
+7-KEYS TO SUCCESS: [BaSSTaRDS]
+	S - Stakeholders are committed
+	B - Business benefits are being realiased
+	S - Scope is realistic and managed
+	W - work and Schedule is predictable
+	T - Team is high performing
+	R - Risks are being mitigated
+	D - Deli org's benefits are being realized
+
+=================================================================
+
+WHY PROJECTS FAIL: [RUTER]
+	r - requirements are incorrect and incomplete
+	u - lack of user involvement
+	t - technology incompetency
+	e - executive willingness
+	r - lack of resources
+
+=================================================================
+
+HOW PROJECTS SUCCEED: [WE USE PCR AIDS]
+	we - wonder business benefit are aligned to 
+	u - user involvment
+	s - scope and schedule is managed
+	e - experienced project manager
+	p - pm tools
+	c - communication
+	r - requirements are minimized
+	a - 
+	ID - iterative development
+	s - stakeholders are committed
+
+=================================================================
+SCM, CHANGE & RELEASE MANAGEMENT
+=================================================================
+
+7-ATTRIBUTES OF SCM
+	S - safety: protection of key business assets
+	S - stability: better predictability and improved productivity
+	C - control: controlled yet flexible env thus desired outcome
+	A - auditability: better comliance, cost and time to market
+	R - reproducibily: better quality, efficiently - one time and every time
+	T - traceability: validation of customer deliverables
+	S - scalability: smooth homogeneous expansion
+
+=================================================================
+
+7-R's OF CHANGE MANAGEMENT
+	R - reason
+	R - raised
+	R - return 
+	R - risk
+	R - resources
+	R - responsible
+	R - relationship 
+
+=================================================================
+
+BENEFITS OF CHANGE AND RELEASE MANAGEMENT: [4 c'S]
+	C - Control
+	C - Collaboration
+	C - Consistency
+	C - Confidence
+
+=================================================================
+
+RELEASE MANAGEMENT:[PBDR]
+	P - rel & dep planning [P P/f B/t Pkg BDL P F]
+		plan
+		pass/fail
+		plan b/t
+		plan pkging
+		rel bld planning
+		plan dep
+		plan logistics and delivery
+		plan pilots
+		fin/commercial 
+	B - rel bld & test [Bdoc CIs Pkg Test-env-estb/manage TRP]
+		bld doc
+		acquire and test CIs
+		pkging
+		build/manage test env
+		test
+		rehearse
+		pilot
+	D - rel deployment [P Perf-TDR Verify ELS]
+		plan dep
+		perform transition-deploy-retire
+		verify
+		ELS
+	R - review & close
+		review and close deployment
+		review and close transition
+
+
+
+RELEASE MANAGEMENT REPORTS:
+	OPS reports-
+	  SYS ENGG reports
+		- no. and sizes of requirements in each release
+		- requirements aging
+		- scope stability
+	  PM reports
+		- stoplight report
+		- schedule summary
+		- failing releases
+	  Quality management reports
+		- defect tracking
+		- project non-compliances
+
+	process reports-
+	  Deployment reports	
+		- DML tracking report
+		- failed changes report
+		- deployment velocity report
+	  Planning reports
+		- customer satisfaction survey
+		- plan vs actual reports
+
+=================================================================
+
+CHANGE MANAGEMENT PROCESS:[IAE-PIR]
+	I - Identify change (customer)
+		[identify incident, problem, enhancement change] 
+		[raise CR]
+	A - Analyze change (service management)
+		[feasibility study, cost-benefit analysis]
+	E - Evaluate change (CAB) 
+		[go no-go]
+	P - Plan change (implementer)
+		[analyze change impact, plan change]
+	I - Implement change (implementer)
+		[Execute change, propagate change, test change, update doc, release change]
+	R - Review and close change (service management)
+		[Verify change, Close change]
+
+
+
+CHANGE MANAGEMENT REPORTS:
+	OPS reports
+		- changes by implementer
+		- changes by requestor
+		- changes by statistics
+		- changes by components
+
+	process reports
+		- change aging
+		- failed changes
+		- changes by change-type
+
+
+
+Testing tools:
+
+GUI testing:
+HP QuickTest Professional
+HP WInRunner
+Rational Functional Tester
+
+Load Testing:
+HP LoadRunner
+Rational Performance Tester
+
+
+
+=================================================================
+OTHERS
+=================================================================
+
+SOURCES OF BEST PRACTICES: [SEDS (GAFF)]
+
+	S - source (generate) [ISITA]
+		= industry practices
+		= standards
+		= training and education
+		= internal experience
+		= academic research
+	
+	E - enablers (aggregate) [CASTE]
+		= customers
+		= advisors
+		= suppliers
+		= technology		
+		= employees
+
+	D - drivers (filter)[SRC]
+		= substitutes
+		= regulators
+		= customers
+
+	S - scenarios (filter) [CCC]
+		= competition
+		= compliance
+		= commitments
+
+
+
+=================================================================
+
+
+Hey <name>, h u dng tdy?
+<response>
+let me thk fr ur time <Nick> and i hope we'll have some good time together.
+
+my nm is naveen and i hail frm the beautiful himalayas (extreme north of india) [xxx -u must hv heard of a place called Nainital- xxx] i'm settled in south for some 8 years now.
+
+<name>, i bring along some 16yrs of exp in change & release management, application mgmt and infrastructure mgmt.. also extensively worked for application development DEVops support setups.. 
+ya, i'm popularly tagged as a release manager due to experience and the control i have over this domain.. however off late i rather like to be called a service manager 
+due to my excessive obsession to the idea of 'service management' and my last 8 years pursuing it in various capacities.
+	
+
+im privileged to have worked for some great orgs like Defense research org, MS, IBM, Barclays. i feel good that i worked for some very good projects across industry, domains and technologies.
+
+[i love to mention i have had privilege working under Dr Kalam's DRDO real time command & control team and where are learned some very fundamental tricks of the trade that i use evn tody
+its there where i got exposed to config mgmt, quality mgmt, QA/QC process, methods and tools (following DOD and MIL standards practised there)].
+
+
+at oakton 
+
+	- i wear two hats, i lead a CoE team called SMO (in lines with the standard PMO we have for proj mgmt).
+	  and in my delivery manager role i contribute as as a service delivery manager for our key client Barrick Gold (yes, they produce gold and are world's largest).
+	
+	- also, as a subject matter expert in SCM tools and techniques, i volunteer for training and consultation on SDLC tools planning and implementation guidance.
+
+
+before Oakton 
+	- i have had privilege working for Barclays Enterprise Middleware group for its leadership team. 
+	- In this role i was responsible for redefining release mgmt for BEM, release planning, change mgmt adm, DEV infra mgmt, Builds & deployments, vendor mgmt and Cont Impro initiatives. 
+
+	- I reckon we all had a very fruitful association and i thank BTCI that my contributions were equally rewarded in terms star award, regular feedbacks from my managers and peers. 
+	- but unfortunately we cud not work long - i had to leave to support my family in my province due to my young brother's untimely death.
+	
+	- this is when i started working for Oakton during such tough times who supported me in terms of flexibility to work remotely. but now as org not doing really good and scales down.. 
+
+
+
+At IBM 
+	- i got opportunity to work with some great organizations and huge projects - mostly in banking sector (also telecom, life sciences)
+	- i worked for a leading Thai bank (K-Bank) wherein i led a IBM Rational tools enablement program for their Appl mgmt group (end-to-end IBM Rational enablement & support).
+	- as a transition mgr for vodafone money project, offshored production support from existing vendor (Sagentia) and carried out release planning and infra mgmt for new release.
+	- For MeadJohnson, a crucial life sciences project, delivered a new change management application project using IBM Rational tools.
+
+
+At MS 
+	- led a team of builders and infra specialists to churn out Windows OS Builds, packaged, tested and released across platforms, across geographies, across stk groups.
+	  this is here i came to know about the real impact of changes i handle and releases i ship.
+
+
+
+=================================================================
+??##@@%%
+=================================================================
+
+scm
+- Expertise in Configuration, Change and Release management processes, methods and tools with experience of more than 15 years across industry, domains and technologies
+- Extensive hands-on experience in all major version control, Build/Integration and Release/deployment tools with specialization in IBM Rational tools
+- Capacity and Release planning for large .NET development projects at Oakton Integration and Development Services Group
+- System integration, Release planning, Service operations management for Barclays Techonology Enterprise Middleware Group
+
+---
+qa
+- Was involved in organizational CMMI assessments at Hughes, IBM and Oakton 
+- Good Exposure to DOD/MIL, IEEE, CMMI, ISO standards across organizations
+
+---
+DEV
+- Application programming experience for prestigeous indigenous defense real time command & control applications CAIO17 and EMCCA, using C++ OOP methodology over Teamwork and Sun CASE tool environments.
+- DBMS application programming experience using Dbase-IV, FoxBase, FoxPro, Oracle 8i.
+- Scripting experience using MS-DOS, Unix Shell scripting, Perl, to enable SCM process control  and reporting (SCM triggers, end-to-end Build and deployment scripting, and ICT infrastructure control automations)
+
+
+
+
+=================================================================
+??##@@%%
+=================================================================
+
+
+
+
+
+Value Add: Improved service availability, reduced production incidents, higher customer satisfaction, better IT financial management 
+
+
+
+
+• As a member of Enterprise Service Management program, responsible for development of ITIL based enterprise problem management policies, processes, targeted communication approach and escalation strategy. 
+• Defined and completed data sources assessment for the Application Portfolio management system - Troux.
+• Project Lead on IT Risk reporting, includes IT product health metrics, customer satisfaction and incidents metrics
+• Responsible for creating IT Service catalog and critical services information repository for 60+ Investment 
+applications to aid timely restoration of services for customers as a part of Critical Incident management process
+• Promoted implementation of ITIL based non-functional Service Design requirements within Agile development.
+Function: Service Delivery Management & Support Lead (ITIL/COBIT) – Global Institutional Group 12/2006 – 06/2009
+Value Add: Continuous Service improvement, Reduced SLA breach & Change related errors, better business/IT strategy linkage.
+• Delivered IT Services Management (ITSM) solutions based on ITIL best practices that focused on the people, 
+process, technology, organization & integration perspectives of providing business solutions within IT infrastructure.
+• Led initiatives comprising 15+ members managing IT service management project tasks including the assessment, 
+strategy, design and implementation in Services Management process areas like Service Desk, together with 
+Incident, Escalation and Change Management being mindful of separation of duty per Sarbanes Oxley (SOX). 
+• Managed the technical and service relationship between Product Development Manager, Account Managers and 
+Sr Business users (Portfolio Control, Settlement users & Traders) within Global ITIL L1-L2-L3 model.
+• Moderated user service review meetings; areas covered included performance, design and service improvement 
+reports, open incident status, fix implementation/release schedule across multiple product lines.
+• Responsible at the operational level for monitoring and managing the quality of service’s key performance 
+indicators including availability and reliability (MTBF) ensuring service delivery is in accordance with SLA’s. 
+• Renegotiated service contracts with vendors, reported on SLA/OLA breaches and took corrective actions driving 
+operational efficiencies in day-to-day operations and improved customer satisfaction.
+• Played a key role in centralizing customer support using Service Desk model, establishing procedures for 
+functional and hierarchical escalations and architecting ITIL incident management L1-L2-L3 model.
+• Responsible for day-to-day operations of the Organizational Balanced Scorecard Process. Mentored and trained 
+performance metric owners, monitored and reported quarterly the status of all Organizational Performance Measures.
+• Worked closely with traders and portfolio counselors utilizing business and technology knowledge to analyze and 
+assess IT operational maturity, identify design improvements and drive efficiency in business operations processes.
+• Created scorecard based on Business/IT Strategy linkage model to help prioritize IT efforts inline with business needs 
+• Assessed, planned, architect and designed Change Management process. Represented operations group in the twice-
+weekly Change Advisory Board (CAB) meetings - facilitated stakeholder analysis & impact assessment .
+• Produced Sr Manager/Business user/ executive ‘report cards' on the effectiveness of IT Customer Support & Risk 
+management efforts and provide consulting on implementation and adjustments to the Risk Management paradigm.
+• Experience with MS Project, Excel, Visio, HP Open view, BMC Remedy, Alarmpoint, ITSM functional expertise 
+with Business Objects Web Intelligence, Remedy data analytics and familiarity with reporting best practices
+
+
+
+.Function: Sr Applications Production Support Analyst (Investment Systems) 09/2004 – 12/2006
+
+
+Value Add: Reduce/Eliminate Repeat incidents, Business continuity and support, greater IT Operational visibility to Executives
+
+• SME with business functional and application technical knowledge responsible for Delivery and Product Support 
+of 30+ Mission critical investment systems in a Global ITIL based Support model serving critical business function 
+• ITIL Problem Management - Managed and coordinated all activities necessary to detect, analyze and initiate 
+resolution of problems using Root Cause Analysis (RCA) methodologies (e.g. Kepner Tregoe, 5 Whys)
+
+• Developed presentations/structured communications for business executives & Directors on IT Operational Reporting 
+• Developed change management processes and worked with Transition group to formulate IT Compliant process for 
+Production data Modification and Emergency Change inline with internal controls to help mitigate business risks.
+• Led workshops to investigate areas of change process failure and plan effective change and release programs. 
+• Cataloged and reviewed business requirements to ensure services are provisioned on specific infrastructure depending 
+upon their availability needs ensuring proper contingency plans are in place and tested during annual DR exercise.
+
+Role: Application Production Support (Investment Systems) 12/2003 – 09/2004 
+Value Add: Product development, Reduction of incidents, improved service reliability and business productivity, risk mitigation
+Work Performed
+• Participated in design, planning and implementation of ITIL based Event and Incident management process. 
+• Liaised with business users to provide expert advice to management for the resolution of application related 
+flaws or workflow issues - escalated to development team for modification of application as necessary. 
+• Performed Application performance monitoring using Hyperic, automation/reporting using PL/SQL/unix scripting.
+• Performed end-to-end incident management. Responsible for time-critical User Service/ Infrastructure restoration, 
+technical troubleshooting within complex IT systems environment. Worked with customers, internal IT and 
+infrastructure teams, third party data providers etc throughout the service restoration process.
+• Provided cross product business support and resolved data reconciliation issues within integrated systems. 
+Developed a solution that enhanced user productivity and allowed timely mitigation of associated business risks. 
+
+Sr Application Developer & Support WASHINGTON MUTUAL BANK, Orange, CA 07/2003 – 12/2003
+Value Add: Product development, Transition planning, improved service levels
+Work Performed 
+• Developed and delivered ITIL solutions that assess, plan, architect and design, and implement technology solutions 
+for enterprise wide heterogeneous IT environments to meet business requirements. These solutions included Change 
+and configuration management, service level, performance and problem management.
+• Extracted enterprise business rules and business processes and developed/deployed business intelligence as Atomic 
+Rules and Rulesets for mortgage application risk assessment module. Provided post-release Level3 support.
+• Worked with business SME’s utilizing Knowledge Acquisition, & Business Rules Harvesting; Requirements 
+Analysis, Modeling, and Design. 
+• Created Business Object Model, defined and developed the interface to the rule engine and utilized business decision 
+tables to architect business rules using ILOG JRules 4.5 and provided ongoing support.
+
+Developer and Systems Support Analyst EAGLEGRIPS, Carol Stream, IL 01/2003 – 05/2003
+Managed the development of website in a team of two. Responsible for requirement gathering, design, implementation and support.
+
+Developer and Systems Support Analyst TECH INNOVATIONS INC, Bartlett, IL 01/2002– 12/2002
+Developed a J2EE bug tracking system. Responsibilities included system design, implementation and ongoing Level 3 support.
+
+Developer and Systems Support Analyst Guru Teg Bahadur Medical Hospital, India 01/1999 – 08/2000 
+Work Performed 
+• Developed the “Enter Payment” use case for a mission-critical browser-based claims management system using 
+J2EE technologies and MVC architecture
+• Provided system support for Medical Information management system (MIMS), supporting web-based clients 
+running in physicians’ practices providing online access, consolidation, management of medical documents.
+• Investigated and resolved EDI related formatting issues associated with fetching electronic laboratory reports from 
+medical testing laboratories. These reports were made available online to the requesting physicians.
+• Designed and created reports that allowed the laboratory results to be viewed as both tables and charts, including 
+plot charts enabling physicians to do trend analysis for selected tests
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Subject Matter Expertise and Consulting Services Development and Delivery
+•	Developed and delivered management value added consulting and strategic technology infrastructure solutions for distributed and large scale data center heterogeneous environments:
+•	IT Service Management (ITSM) based on ITIL best practices.
+•	ITIL V3 Service Strategy, Service Design, Service Transition, Service Operation and Continual Service Improvement.
+•	ITIL V2 Service Delivery and Service Support areas of Service Level, Availability, Capacity, Financial, and IT Service Continuity Management; Incident, Problem, Change, Release, Configuration Management and Service Desk
+•	Organizational Maturity and Transformation
+•	CobiT framework best practices
+•	Business Based Macro Level Capacity Planning
+•	Business Impact Assessment and Business Resumption/Disaster Recovery
+•	Enterprise Infrastructure Architecture and Distributed Systems Management, Application Design Reviews, Storage and Data Modeling and Migration, Data Center Consolidation, Operations Review and Managed Care Services
+The above services included the business strategies and deployment plans, marketing, sales, delivery and developing the appropriate delivery guides, collateral, and training where needed.
+
+
+ITSM and ITIL Thought Leadership
+
+Hosting a premier ITSM website, www.itsm.info, authoring books on ITSM Implementation and an HDI Focus Book on Service Level Management and Service Catalog. Publishing more than 50 articles, whitepapers, and reference papers that appear regularly in websites such as ITSMWatch, SearchCIO, TechTarget and TechRepublic, etc. Presenting on a regular basis at many national and local conferences such as itSMF, HDI, CMG, BrightTalk and GMIS. Developed a proprietary ITSM Assessment methodology that was licensed and utilized by Proctor and Gamble.
+
+Consulting Accomplishments
+•	ITIL and IT Services Management
+Rick has done many ITIL and ITSM process integrations that included full assessments, architecture, design, planning, implementation and roll out and oftentimes included developing Business Cases, ROI, TCO, Governance and Cost Benefit Analysis and best practice methodologies for ITSM holistically in the areas of people, process, technology and information across the organization and integration for those ITIL process areas.
+
+Most of the ITIL and ITSM Organizational Optimization and Business value added process integrations were performed across all or many ITIL Service Support and Delivery areas. Each successful project completed on time and within budget that met or exceeded customer requirements and expectations. Some organization examples include:
+•	A large international provider of travel services based in Glendale, AZ.
+•	Two worldwide Media and Entertainment Companies in Burbank, California
+•	Large health care providers in Denver, CO, Louisville, KY and Minneapolis, MN
+•	Major energy organizations in Houston, TX and San Diego, CA
+•	Large insurance providers in Northeast Ohio and Springfield, MA
+•	Major financial organizations in Phoenix, AZ, Denver, CO and Charlotte, NC.
+•	Major Biotech/Medical organization Gainesville, FL.
+•	Maricopa County, AZ and the State of AZ
+•	Multiple branches of California government agencies
+•	A global communication technology vendor organization in Sunnyvale, CA
+Rick has acted as an ITSM regional business practice leader for a major vendor consulting organization and world wide business practice leader for another. These positions included developing; selling, closing, and delivering value add services. Also co-shared world wide ITIL/ITSM knowledge community leadership for another major vendor. Rick has worked with technologies such as Service Desk, Remedy, NewScale, Tivoli and Maximo to help enable value added solutions.
+•	IT Systems Architecture Planning
+Developed and delivered an IT infrastructure tactical and strategic, enterprise wide, multi-platform solution based on business requirements for a major European communication technology government organization, a large U.S. Insurance company, and a large U.S. financial institution affiliated with the Federal Government. This included business and IT infrastructure process and requirements analysis developing the transition plans to implement them.
+•	Business Based Capacity Planning Methodology
+			Performed an analysis of business requirements, drivers and I/T resource consumption across multiple platforms and developed a macro level capacity planning methodology using natural business forecast units for a major U.S. retail and manufacturing company.
+•	Data Center Consolidation
+		Performed data center and server consolidation, workload planning, migration, and implementation projects for various companies worldwide including a utility, energy information processing and reporting service bureau, and financial. These projects ranged in size and scope that included migrations to newer technology operating environments, storage technologies, and workload processing.
+•	Effective Storage Planning, Migration and Data Modeling
+			Performed effective storage utilization analysis, planning, and implementation for many domestic and international companies world wide that included all storage mediums, migrating data to new technology devices aligning it to appropriate storage technology.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
